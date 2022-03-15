@@ -1,0 +1,13 @@
+The program has started.
+The method to determine if two words are anagrams took 3307300.0 nanoseconds.
+Reading the input file took 0.009835 seconds.
+Sorting each row took 2.68E-5 seconds.
+Sorting the rows took 1.5E-5 seconds.
+This is the sorted list of anagrams.
+ehsypv hpesvy ysepvh 
+gzuonx uozgnx uzngxo xznoug 
+wounxppzu zpwuonxpu 
+xrqryptcb 
+Printing output to file took 4.32E-5 seconds.
+Processing the input file that contains 10 words took 0.0123868 seconds.
+The program has ended.

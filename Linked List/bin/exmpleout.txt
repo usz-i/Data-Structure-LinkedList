@@ -1,0 +1,9 @@
+Executing Program.
+
+Sorted List of Anagrams from the input.
+ehsypv hpesvy ysepvh 
+gzuonx uozgnx uzngxo xznoug 
+wounxppzu zpwuonxpu 
+xrqryptcb 
+Checking if the inputs of 10 lines are anagrams took 0.0048222 seconds.
+The program has ended.

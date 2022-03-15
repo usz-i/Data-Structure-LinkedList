@@ -1,0 +1,14 @@
+Executing Program.
+The method to determine if two words are anagrams took 0.0018011 seconds.
+Reading the input file took 0.005004 seconds.
+Sorting each row took 2.63E-5 seconds.
+Sorting the rows took 1.15E-5 seconds.
+
+Sorted List of Anagrams from the input.
+arc car 
+bed 
+dog god 
+pots stop tops 
+Printing output to file took 4.13E-5 seconds.
+Processing the input file that contains 8 words took 0.0069027 seconds.
+The program has ended.
